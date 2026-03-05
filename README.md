@@ -1,15 +1,26 @@
-# Swin Transformer — 논문 리뷰 보충 자료
+# Swin Transformer — 논문 리뷰용 추가 이미지 자료
 
 - 논문 제목 : Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - 논문 원문: [https://arxiv.org/pdf/2103.14030](https://arxiv.org/pdf/2103.14030)
   
-### KDT Team Project : 팀 Chainers 🫡
+## KDT Team Project : 팀 Chainers 🫡
 - 논문 리뷰 내용은 아래 Notion 링크를 참고해주세요.
 - https://www.notion.so/Swin-Transformer-31467903c315807d94b8fbd0f7a00be2
 
+아래 이미지들은 Swin Transformer 논문 리뷰 작성을 위해 논문 내용을 기반으로 정리하거나 실험용으로 시도한 보충 시각화 자료를 포함합니다.
 
-본 저장소는 Swin Transformer 논문 리뷰 작성을 위해 생성한 보충 시각화 자료를 포함합니다.  
-시각화 코드는 `doit_figures.ipynb`에 수록되어 있으며, VScode 또는 구글 Colab으로 실행하면 이미지 파일들이 생성됩니다.
+시각화 코드는 `doit_figures.ipynb`에 수록되어 있으며, Image_Data 폴더에 실험용 예제 이미지 파일이 2개 있습니다.
+
+VScode 또는 구글 Colab으로 실행하면 이미지 파일들이 생성됩니다.
+
+---
+
+### 시뮬레이션 및 테스트에 사용된 예제 이미지
+
+| 파일명 | 설명 | 출처 |
+|--------|------|------|
+| `cat1.jpg` | 단순 배경의 단일 객체 이미지 (고양이). 낮은 장면 복잡도를 대표한다. | https://meeco.kr/Gallery/25535536 |
+| `marathon1.jpg` | 다수의 객체와 복잡한 배경을 포함한 이미지 (2023 JTBC 서울 마라톤). 높은 장면 복잡도를 대표한다. | https://www.joongang.co.kr/article/25288576 |
 
 ---
 
@@ -78,9 +89,13 @@
 
 ---
 
-## 시뮬레이션 및 테스트에 사용된 예제 이미지
+## 저작권
 
-| 파일명 | 설명 | 출처 |
-|--------|------|------|
-| `cat1.jpg` | 단순 배경의 단일 객체 이미지 (고양이). 낮은 장면 복잡도를 대표한다. | https://meeco.kr/Gallery/25535536 |
-| `marathon1.jpg` | 다수의 객체와 복잡한 배경을 포함한 이미지 (2023 JTBC 서울 마라톤). 높은 장면 복잡도를 대표한다. | https://www.joongang.co.kr/article/25288576 |
+본 저장소에 포함된 코드(`doit_figures.ipynb`) 및 모든 이미지 결과물은 저작권법에 의해 보호됩니다.
+
+저작권자의 명시적 허가 없이 본 자료의 전부 또는 일부를 복제, 배포, 수정, 상업적으로 이용하는 행위를 금합니다.
+
+© 2026. All rights reserved.  
+문의: sjowun@email.com
+
+---
