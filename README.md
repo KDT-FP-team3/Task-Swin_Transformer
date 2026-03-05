@@ -1,4 +1,4 @@
-# Swin Transformer — 논문 리뷰용 추가 이미지 자료
+# Swin Transformer 논문 리뷰용 추가 이미지 자료
 
 - 논문 제목 : Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - 논문 원문: [https://arxiv.org/pdf/2103.14030](https://arxiv.org/pdf/2103.14030)
