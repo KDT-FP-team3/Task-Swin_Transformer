@@ -79,7 +79,7 @@
 
 ---
 
-## 7. 실제 이미지 기반 고충실도 벤치마크: Swin vs. ViT
+## 7. 벤치마크 비교 : 실제 이미지 기반 고충실도(High-Fidelity), Swin-T vs. ViT
 
 ![swin_vs_vit_final_v13_scaling](./swin_vs_vit_final_v13_scaling.png)
 
