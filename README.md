@@ -3,7 +3,7 @@
 - 논문 제목 : Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - 논문 원문: [https://arxiv.org/pdf/2103.14030](https://arxiv.org/pdf/2103.14030)
   
-## KDT Team Project : 팀 Chainers 🫡
+## KDT Team Project : 팀🫡 Chainers 
 - 논문 리뷰 내용은 아래 Notion 링크를 참고해주세요.
 - https://www.notion.so/Swin-Transformer-31467903c315807d94b8fbd0f7a00be2
 
@@ -27,7 +27,7 @@
 2. `marathon1.jpg` : 2023 JTBC 서울 마라톤
    - 다수의 객체와 복잡한 배경을 포함한 이미지.
    - 높은 장면 복잡도를 대표한다.
-   - https://www.joongang.co.kr/article/25288576
+   - 출처 : https://www.joongang.co.kr/article/25288576
 
 ---
 
