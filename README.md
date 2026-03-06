@@ -9,7 +9,9 @@
 
 아래 이미지들은 Swin Transformer 논문 리뷰 작성을 위해 논문 내용을 기반으로 정리하거나 실험용으로 시도한 보충 시각화 자료를 포함합니다.
 
-시각화 코드는 `doit_figures.ipynb`에 수록되어 있으며, VScode 또는 구글 Colab으로 실행하면 이미지 파일들이 생성됩니다.
+- `doit_figures.ipynb`에 이미지들을 순차적으로 출력할 수 있도록 정리했습니다.
+
+- 실행 프로그램 : VScode (권장), Google Colab.
 
 ---
 
@@ -17,10 +19,15 @@
 
 - Image_Data 폴더에 실험용 예제 이미지 파일이 2개 있습니다.
 
-| 파일명 | 설명 | 출처 |
-|--------|------|------|
-| `cat1.jpg` | 단순 배경의 단일 객체 이미지 (고양이와 나비). 낮은 장면 복잡도를 대표한다. | https://meeco.kr/Gallery/25535536 |
-| `marathon1.jpg` | 다수의 객체와 복잡한 배경을 포함한 이미지 (2023 JTBC 서울 마라톤). 높은 장면 복잡도를 대표한다. | https://www.joongang.co.kr/article/25288576 |
+1. `cat1.jpg` :  고양이(와 나비)
+   - 단순 배경의 단일 객체 이미지.
+   - 낮은 장면 복잡도를 대표한다.
+   - 출처 : https://meeco.kr/Gallery/25535536
+
+2. `marathon1.jpg` : 2023 JTBC 서울 마라톤
+   - 다수의 객체와 복잡한 배경을 포함한 이미지.
+   - 높은 장면 복잡도를 대표한다.
+   - https://www.joongang.co.kr/article/25288576
 
 ---
 
