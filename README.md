@@ -3,7 +3,7 @@
 - 논문 제목 : Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - 논문 원문: [https://arxiv.org/pdf/2103.14030](https://arxiv.org/pdf/2103.14030)
   
-## KDT Team Project : 팀🫡 Chainers 
+## KDT Team Project : 팀 Chainers 🫡
 - 논문 리뷰 내용은 아래 Notion 링크를 참고해주세요.
 - https://www.notion.so/Swin-Transformer-31467903c315807d94b8fbd0f7a00be2
 
@@ -98,7 +98,7 @@
 
 ## 저작권
 
-본 저장소에 포함된 코드(`doit_figures.ipynb`) 및 모든 이미지 결과물은 저작권법에 의해 보호됩니다.
+본 저장소에 포함된 코드(`doit_figures.ipynb`) 및 모든 출력 이미지 결과물은 저작권법에 의해 보호됩니다.
 
 저작권자의 명시적 허가 없이 본 자료의 전부 또는 일부를 복제, 배포, 수정, 상업적으로 이용하는 행위를 금합니다.
 
